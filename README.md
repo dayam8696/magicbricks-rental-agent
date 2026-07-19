@@ -74,12 +74,6 @@ Progress is saved to `output/listings.json` after every match, so a run can
 be stopped and resumed at any time — the next run continues from there
 instead of starting over.
 
-If a run stops before reaching the analysis step, generate the report from
-whatever was already collected without re-scraping:
-
-```bash
-python analyze_partial.py
-```
 
 ## Files
 
