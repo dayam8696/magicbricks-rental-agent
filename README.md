@@ -85,3 +85,5 @@ instead of starting over.
 | `config.py` | Search criteria — edit this to reuse the agent for a different search |
 | `analyze_partial.py` | Regenerates the report from `output/listings.json` without re-scraping |
 | `run_supervised.sh` | Watchdog wrapper that restarts `agent.py` automatically on a stall |
+
+## Video Demo link - https://drive.google.com/file/d/1BRFJ5_iNbW0xqXi3tG86QwzfwrWSqGL5/view?usp=sharing
